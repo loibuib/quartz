@@ -6,8 +6,6 @@ title: Digital Garden - Bui Huu Loi
 
 Welcome to the personal digital space of **Bui Huu Loi** (IT Leader & Data Protection Officer). This space serves as a networked repository for hands-on technical knowledge, infrastructure engineering, systems security, and ongoing research.
 
-Built with **[Quartz v5](https://quartz.jzhao.xyz/)** and **[Obsidian](https://obsidian.md/)**, deployed continuously on **Cloudflare Pages**.
-
 ---
 
 ## 📌 Explore the Garden
