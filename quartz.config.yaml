@@ -7,7 +7,7 @@ configuration:
   prefetch: viewport
   analytics:
     provider: plausible
-  locale: vi-VN
+  locale: en-US
   baseUrl: quartz-ebk.pages.dev
   ignorePatterns:
     - private

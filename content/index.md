@@ -1,25 +1,26 @@
 ---
-title: Digital Garden - Bùi Hữu Lợi
+title: Digital Garden - Bui Huu Loi
 ---
 
-# Chào mừng đến với Digital Garden 🪴
+# Welcome to My Digital Garden 🪴
 
-Chào mừng bạn đến với không gian số cá nhân của **Bùi Hữu Lợi** (IT Leader & Data Protection Officer). Đây là nơi tổng hợp, kết nối và lưu trữ các kiến thức thực chiến về quản trị hệ thống, hạ tầng mạng, bảo mật thông tin và ghi chú cá nhân.
+Welcome to the personal digital space of **Bui Huu Loi** (IT Leader & Data Protection Officer). This space serves as a networked repository for hands-on technical knowledge, infrastructure engineering, systems security, and ongoing research.
 
-Hệ thống được xuất bản tự động từ **Obsidian** thông qua **[Quartz v5](https://quartz.jzhao.xyz/)** và lưu trữ trên **Cloudflare Pages**.
-
----
-
-## 📌 Các chủ đề chính
-
-- **[[Gioi-thieu|Về tác giả & Không gian này]]**: Giới thiệu đôi nét về bản thân, định hướng và phương pháp quản lý tri thức cá nhân (PKM).
-- **[[Kien-thuc-IT|Hạ tầng & An toàn thông tin]]**: Tổng quan về quản trị hạ tầng doanh nghiệp, ảo hóa Proxmox, tường lửa FortiGate, giám sát hệ thống và bảo mật dữ liệu.
-- **[[Huong-dan-Quartz|Hướng dẫn cập nhật & sử dụng Quartz]]**: Các bước viết bài từ Obsidian và đẩy bài viết mới lên website.
+Built with **[Quartz v5](https://quartz.jzhao.xyz/)** and **[Obsidian](https://obsidian.md/)**, deployed continuously on **Cloudflare Pages**.
 
 ---
 
-## 💡 Tính năng nổi bật của vườn tri thức
-1. **Liên kết hai chiều (Backlinks):** Mọi khái niệm được kết nối đa chiều.
-2. **Xem trước tức thì (Hover Preview):** Rê chuột vào bất kỳ liên kết nội bộ nào để đọc nhanh nội dung.
-3. **Interactive Graph View:** Đồ thị trực quan hoá mối liên hệ giữa các ghi chú (ở góc phải màn hình).
-4. **Tìm kiếm toàn văn (Search):** Nhấn `Ctrl + K` (hoặc biểu tượng kính lúp) để tìm kiếm tức thì.
+## 📌 Explore the Garden
+
+- **[[About|About the Author & This Space]]**: Professional background, core competencies, and approach to personal knowledge management (PKM).
+- **[[IT-Infrastructure|Infrastructure & Cybersecurity]]**: Enterprise system architecture, Proxmox virtualization, FortiGate security, SIEM monitoring, and data compliance.
+- **[[Quartz-Guide|Quartz & Obsidian Guide]]**: How this digital garden is maintained, structured, and synchronized.
+
+---
+
+## 💡 Key Features of This Garden
+
+1. **Bidirectional Links (Backlinks):** Concepts and topics are cross-linked across notes.
+2. **Hover Previews (Popovers):** Hover your cursor over any internal link to preview the referenced note without navigating away.
+3. **Interactive Graph View:** Explore the dynamic network graph of notes located on the right sidebar.
+4. **Full-text Search:** Press `Ctrl + K` (or click the search bar) for instant keyword search.
